@@ -1,8 +1,8 @@
 {
   "pills": [
-    { "label": "Live", "href": "https://autonomi.com/#live", "style": "is-live" },
-    { "label": "Next", "href": "https://autonomi.com/#next", "style": "is-next" },
-    { "label": "Sandbox", "href": "https://autonomi.com/#sandbox", "style": "is-sandbox" }
+    { "label": "Live", "href": "https://autonomi.com/roadmap#live", "style": "is-live" },
+    { "label": "Next", "href": "https://autonomi.com/roadmap#next", "style": "is-next" },
+    { "label": "Sandbox", "href": "https://autonomi.com/roadmap#sandbox", "style": "is-sandbox" }
   ],
   "sections": [
     {
